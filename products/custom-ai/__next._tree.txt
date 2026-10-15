@@ -1,7 +1,7 @@
-:HL["/daliyu-web/_next/static/css/960a0f4b9996be92.css","style"]
+:HL["/daliyu-web/_next/static/css/0d46bb8fbfcc1a26.css","style"]
 :HL["/daliyu-web/brand-logo-transparent.png","image"]
 :HL["/daliyu-web/ip-assistant.webp","image",{"fetchPriority":"high"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"custom-ai","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
-0:{"b":"FEeTA_ic_x6GddgrdHgU6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VqNIJG-XcpIXtOL3pVVNa","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
