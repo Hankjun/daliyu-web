@@ -1,6 +1,6 @@
 :HL["/_next/static/css/b70c909a8d369daa.css","style"]
-:HL["/brand-logo-transparent.png","image"]
+:HL["/brand-logo-nav.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"digital-host","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":96,"c":"$Q2"}]]
-0:{"b":"4fvWRE3ldd7LeRkqn5-it","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"7j5cEP8AP1HW4F3sf8hS1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
